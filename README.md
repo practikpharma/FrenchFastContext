@@ -19,5 +19,14 @@ LIRMM
 
 
 ## Using the French lexical cues with FastContext
+For ease of use, we provide a sample maven application that integrates the French lexical cues with FastContext and that includes a few commented usage examples. The project is structured as follows: 
+ 
+ - src/main/
+   - java/
+     - fr.lirmm.frenchfastcontext.FrenchContextApp
+   - resources/
+     - french_cues.tsv
+ 
+
 
 
