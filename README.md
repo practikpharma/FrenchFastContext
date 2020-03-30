@@ -15,7 +15,7 @@ LIRMM
 
 [1] [https://dx.doi.org/10.1016%2Fj.jbi.2018.08.002]()
 
-## Lexical Cues
+## French Lexical Cues 
 
 
 ## Using the French lexical cues with FastContext
