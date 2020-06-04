@@ -1,6 +1,6 @@
 # FrenchFastContext
 
-This project is an extension of the FastContext project [https://github.com/jianlins/FastContext](), created in 2019 for the extension of the FastContext algorithm [1] to French.
+This project is an extension of the FastContext project [https://github.com/jianlins/FastContext](https://github.com/jianlins/FastContext), created in 2019 for the extension of the FastContext algorithm [1] to French.
 
 ### Description
 This repository doesn't fork any code from FastContext, but provides the versioned list of rules in the FastContext format generated for the French language, as well as detailed instructions to use FastContext with our French adaptation. 
