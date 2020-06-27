@@ -19,7 +19,7 @@ LIRMM
 
 The French Lexcical Cues Fast Context list stored in this repository is versionned: 
 - v0: This list was produced by taking the list compiled by @amineabdaoui for French ConText (https://github.com/practikpharma/FrenchConText/blob/master/src/main/java/org/context/implementation/ConTextFrench.java) and automatically transforming it into the FastContext's format. The process of creation of the list and integration of French Context in the SIFR Annotator is described here [2].
-- v1 : This list was produced by @mehdi-mirzapour using the scripts in https://github.com/practikpharma/FrenchFastContext-CuesGeneration. Description of the process is under sublission for publication. This list was used for the evaluation reported in the paper under review.
+- v1 : This list was produced by @mehdi-mirzapour using the scripts in https://github.com/practikpharma/FrenchFastContext-CuesGeneration. Description of the process is under submission for publication. This list was used for the evaluation reported in the paper under review.
 - v2: This list is a corrected version of v1 updated after evalauiton but using insights comming from evaluation error analysis.
 
 ### Using the French lexical cues with FastContext in thez SIFR Annotator
